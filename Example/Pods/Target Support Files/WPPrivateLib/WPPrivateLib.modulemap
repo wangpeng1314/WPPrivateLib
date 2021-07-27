@@ -1,0 +1,6 @@
+framework module WPPrivateLib {
+  umbrella header "WPPrivateLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

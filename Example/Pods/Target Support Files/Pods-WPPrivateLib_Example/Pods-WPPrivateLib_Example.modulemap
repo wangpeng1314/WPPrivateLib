@@ -1,0 +1,6 @@
+framework module Pods_WPPrivateLib_Example {
+  umbrella header "Pods-WPPrivateLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

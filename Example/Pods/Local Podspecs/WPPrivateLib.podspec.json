@@ -1,0 +1,22 @@
+{
+  "name": "WPPrivateLib",
+  "version": "0.1.0",
+  "summary": "A short description of WPPrivateLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangpeng1314/WPPrivateLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangpeng1314": "565879340@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wangpeng1314/WPPrivateLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WPPrivateLib/Classes/**/*"
+}

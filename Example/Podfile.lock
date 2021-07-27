@@ -1,0 +1,16 @@
+PODS:
+  - WPPrivateLib (0.1.0)
+
+DEPENDENCIES:
+  - WPPrivateLib (from `../`)
+
+EXTERNAL SOURCES:
+  WPPrivateLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WPPrivateLib: 339624cc124616aa5713fd37209ab66f33a914c7
+
+PODFILE CHECKSUM: b70601e981f36cabaad4457d7107e1dcf52cb852
+
+COCOAPODS: 1.10.1
